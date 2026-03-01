@@ -8,5 +8,5 @@ Test::Test(QWidget *parent)
 
     //新增代码
 
-    // 新增测试代码
+    // 不要
 }
